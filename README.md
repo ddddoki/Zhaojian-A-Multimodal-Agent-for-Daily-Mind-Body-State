@@ -1,5 +1,5 @@
 # Zhaojian-A-Multimodal-Agent-for-Daily-Mind-Body-State
-# 照见 Zhaojian。
+# 照见 Zhaojian
 
 > **Zhaojian: A Multimodal Agent for Daily Mind-Body State**  
 > 多模态日常身心状态观察与行动陪伴智能体
